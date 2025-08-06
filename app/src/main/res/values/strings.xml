@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QSclean</string>
+    <string name="xposed_desc">Module hỗ trợ xoá cache app</string>
+</resources>
